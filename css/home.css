@@ -1,0 +1,55 @@
+:root {
+    --color-a: #CCCFDB;
+    --color-b: #465280;
+    --color-c: #001959;
+    --color-d: #005AEB;
+    --color-e: #007864; 
+    --color-f: #F7B916; 
+    }
+    
+#logo_tp{
+    
+        margin: 10px 30px;
+        padding: 0px 0px;
+        width:120px;
+        height:30;
+        display: none;
+    }
+
+.screen-complete-post {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        background: transparent linear-gradient(245deg, #FFFFFF 0%, #CCCFDB 100%) 0% 0% no-repeat padding-box;
+        opacity: 1;
+        background-size: 100%;
+    }
+
+ #circulo-boton{
+    width: 370px;
+    height:370px;
+    margin-top: 120px;
+    margin-left: 250px;
+    cursor: pointer;
+} 
+
+#circulo-boton:hover{
+    width: 340px;
+    height:340px;
+    margin-top: 120px;
+    margin-left: 250px;
+} 
+
+#ola-azul{
+
+    width: 1700px;
+    height: 985px;
+    background: url('../img/azul-wave.svg') 0% 0% no-repeat padding-box;
+    mix-blend-mode: multiply;
+    opacity: 1;
+    top: -200px;
+    left:800px;
+    background-size:1700px ,985px ;
+    position: absolute;
+}
+    

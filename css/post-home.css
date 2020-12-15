@@ -1,0 +1,70 @@
+﻿:root {
+--color-a: #CCCFDB;
+--color-b: #465280;
+--color-c: #001959;
+--color-d: #005AEB;
+--color-e: #007864; 
+--color-f: #F7B916; 
+}
+.screen-complete{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background: transparent linear-gradient(245deg, #FFFFFF 0%, #CCCFDB 100%) 0% 0%
+	 no-repeat padding-box;
+	opacity: 1;
+	background-size: 100%;
+}
+.ola-fondo{
+
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background: url('../img/blue-wave.png') no-repeat;
+	opacity: 1;
+	background-size: 100%;
+
+}
+#logo_tp{
+
+	margin: 10px 30px;
+    padding: 0px 0px;
+    width:120px;
+	height:30;
+	position: absolute;
+}
+
+.boton_primero{
+	padding: 25px 135px;
+	background: var(--unnamed-color-005aeb) 0% 0% no-repeat padding-box;
+	background: #005AEB 0% 0% no-repeat padding-box;
+	box-shadow: 0px 3px 6px #00000029;
+	border-radius: 59px;
+	opacity: 1;
+	font-family: "sancole-bold";
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #ffffff;
+	opacity: 1;
+	text-decoration: none;
+	margin-top: 330px;
+    margin-left: 210px;
+	position: absolute;
+	
+}
+  .boton_primero:hover{
+	background-color: #007864;
+	width: 450px;
+	font-size: 40px;
+    margin-left: 300px;
+
+  }
+
+.icono-boton:hover{
+	background-color: #F7B916;
+	
+}
+
+
+

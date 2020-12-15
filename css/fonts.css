@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "sancole-black";
+  src: url("../fonts/insigne\ -\ SancoaleSoftenedBlack.otf");
+}
+@font-face {
+    font-family: "sancole-black-ital";
+    src: url("../fonts/insigne\ -\ SancoaleSoftenedBlackItal.otf");
+  }
+  @font-face {
+    font-family: "sancole-bold";
+    src: url("../fonts/insigne\ -\ SancoaleSoftenedBold.otf");
+  }
+  @font-face {
+    font-family: "sancole-bols-ital";
+    src: url("../fonts/insigne\ -\ SancoaleSoftenedBoldItal.otf");
+  }
+  @font-face {
+    font-family: "sancole-light";
+    src: url("../fonts/insigne\ -\ SancoaleSoftenedLight.otf");
+  }
+  @font-face {
+    font-family: "sancole-light-ital";
+    src: url("../fonts/insigne\ -\ SancoaleSoftenedLightItal.otf");
+  }
+  @font-face {
+    font-family: "sancole-medium";
+    src: url("../fonts/insigne\ -\ SancoaleSoftenedMedium.otf");
+  }
+  @font-face {
+    font-family: "sancole-medium-ital";
+    src: url("../fonts/insigne\ -\ SancoaleSoftenedMediumItal.otf");
+  }
+  @font-face {
+    font-family: "sancole-regular";
+    src: url("../fonts/insigne\ -\ SancoaleSoftenedRegular.otf");
+  }
